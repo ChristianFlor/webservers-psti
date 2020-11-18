@@ -1,7 +1,7 @@
 # deploy-webservers-psti
 
 ## Recursos
-- [Repl.it](https://repl.it) y [Heroku](https://heroku.com)
+- [Heroku](https://heroku.com) & [Heroku cli](https://devcenter.heroku.com/articles/heroku-cli)
 - Demo: https://webservers-psti.herokuapp.com
 
 ## Comandos Usados
