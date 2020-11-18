@@ -1,7 +1,12 @@
 # deploy-webservers-psti
 
-commands
+## Recursos
+- [Repl.it](https://repl.it) y [Heroku](https://heroku.com)
+- Demo: https://webservers-psti.herokuapp.com
 
+## Comandos Usados
+
+```bash
 heroku login -i
 
 heroku create webservers-psti --buildpack heroku/python
@@ -21,3 +26,4 @@ git add .
 git commit -m "first deploy"
 
 git push --set-upstream origin master
+```
